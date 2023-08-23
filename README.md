@@ -1,10 +1,10 @@
 # Bullseye Game
 ### Deploy Link: https://mayankmp.github.io/Login-Form/
-- Animated Login Form Using HTML CSS & JavaScript
-- It contains a stylish and beautiful background.
-- With animation of floating labels.
-- And a button to show and hide the password.
-- Developed first with the Mobile First methodology, then for desktop.
+- Bullseye Using HTML CSS & JavaScript
+- It contains a Bow and arrow.
+- Which is to aim at the board preset in some distance.
+- Hit and Bullseye will depend on your aim.
+- Developed for both Mobile and desktop.
 - Compatible with all mobile devices.
 
 💙 Follow me for more projects like this.
