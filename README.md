@@ -1,5 +1,5 @@
 # Bullseye Game
-### Deploy Link: https://mayankmp.github.io/Login-Form/
+### Deploy Link: https://mayankmp.github.io/Bullseye-Game/
 - Bullseye Using HTML CSS & JavaScript
 - It contains a Bow and arrow.
 - Which is to aim at the board preset in some distance.
